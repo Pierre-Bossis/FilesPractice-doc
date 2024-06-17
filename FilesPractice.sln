@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Excel", "Excel\Excel.csproj", "{6D20B01A-C15E-478C-8C51-85F50D1F3390}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Json", "Json\Json.csproj", "{F3543BF0-0B17-4DED-A9DF-D270538FDD4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D20B01A-C15E-478C-8C51-85F50D1F3390}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D20B01A-C15E-478C-8C51-85F50D1F3390}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D20B01A-C15E-478C-8C51-85F50D1F3390}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D20B01A-C15E-478C-8C51-85F50D1F3390}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3543BF0-0B17-4DED-A9DF-D270538FDD4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3543BF0-0B17-4DED-A9DF-D270538FDD4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3543BF0-0B17-4DED-A9DF-D270538FDD4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3543BF0-0B17-4DED-A9DF-D270538FDD4D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95C85A13-05A7-440D-B393-50C81A531DF9}
+	EndGlobalSection
+EndGlobal
